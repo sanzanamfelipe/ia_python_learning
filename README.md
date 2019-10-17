@@ -1,6 +1,6 @@
 # IA Python Learning
 
-Curso de IBM para el estudio de IA.
+Curso de IBM para postular al badge de IA Practitioner.
 
 # Machine Learning Practical: Casos aplicados
 
